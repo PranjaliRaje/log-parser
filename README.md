@@ -1,6 +1,6 @@
 1)	Run generator.py file
 Give datapath of the directory where you want to store the logs of 1000 servers.
-Example command: python generator.py C:\Users\pranj\OneDrive\Documents\cdnetworkslogs
+Example command: python generator.py  <Datapath>
 
 2)	Run query.py file
 Give datapath of the directory where the logs of 1000 servers are stored.
